@@ -1,0 +1,29 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*-lock.json
+dist/
+.env
+
+# Logs
+logs
+*.log
+logs/**/*.log
+
+# Redis dump (if any)
+dump.rdb
+
+
+
+# macOS
+.DS_Store
+
+# Editor folders
+.idea/
+.vscode/
+*.swp
+
+# Coverage / test
+coverage/
