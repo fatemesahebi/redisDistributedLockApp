@@ -27,8 +27,8 @@ This project demonstrates how to build a simple real-time API using:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/redis-lock-example.git
-cd redis-lock-example
+git clone https://github.com/fatemesahebi/redisDistributedLockApp.git
+cd redisDistributedLockApp
 ```
 
 ### 2. Install dependencies
@@ -117,4 +117,4 @@ This protects against race conditions when multiple users act at the same time.
 
 ## ✅ Author
 
-Made with ❤️ by [Fateme](https://github.com/your-profile)
+Made with ❤️ by [Fateme](https://github.com/fatemesahebi)
